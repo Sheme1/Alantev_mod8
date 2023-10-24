@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             textBox1 = new TextBox();
             button1 = new Button();
             button2 = new Button();
@@ -40,6 +41,7 @@
             // 
             // textBox1
             // 
+            textBox1.Anchor = AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             textBox1.Location = new Point(12, 386);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(776, 23);
@@ -47,6 +49,7 @@
             // 
             // button1
             // 
+            button1.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             button1.Location = new Point(12, 415);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
@@ -57,6 +60,7 @@
             // 
             // button2
             // 
+            button2.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             button2.Location = new Point(93, 415);
             button2.Name = "button2";
             button2.Size = new Size(75, 23);
@@ -67,6 +71,7 @@
             // 
             // button3
             // 
+            button3.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             button3.Location = new Point(174, 415);
             button3.Name = "button3";
             button3.Size = new Size(75, 23);
@@ -77,6 +82,7 @@
             // 
             // button4
             // 
+            button4.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             button4.Location = new Point(255, 415);
             button4.Name = "button4";
             button4.Size = new Size(75, 23);
@@ -87,6 +93,7 @@
             // 
             // button5
             // 
+            button5.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             button5.Location = new Point(336, 415);
             button5.Name = "button5";
             button5.Size = new Size(75, 23);
@@ -97,6 +104,7 @@
             // 
             // button6
             // 
+            button6.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
             button6.Location = new Point(417, 415);
             button6.Name = "button6";
             button6.Size = new Size(75, 23);
@@ -107,6 +115,7 @@
             // 
             // listBox1
             // 
+            listBox1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
             listBox1.Location = new Point(12, 12);
@@ -127,9 +136,9 @@
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(textBox1);
-            FormBorderStyle = FormBorderStyle.FixedToolWindow;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
-            Text = "Form1";
+            Text = "TaskMaster";
             ResumeLayout(false);
             PerformLayout();
         }
