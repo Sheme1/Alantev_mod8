@@ -1,0 +1,16 @@
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.Form1.resources
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.csproj.GenerateResource.cache
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.GeneratedMSBuildEditorConfig.editorconfig
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.AssemblyInfoInputs.cache
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.AssemblyInfo.cs
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.csproj.CoreCompileInputs.cache
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\bin\Debug\net6.0-windows\Alantev_mod8.exe
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\bin\Debug\net6.0-windows\Alantev_mod8.deps.json
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\bin\Debug\net6.0-windows\Alantev_mod8.runtimeconfig.json
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\bin\Debug\net6.0-windows\Alantev_mod8.dll
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\bin\Debug\net6.0-windows\Alantev_mod8.pdb
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.dll
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\refint\Alantev_mod8.dll
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.pdb
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\Alantev_mod8.genruntimeconfig.cache
+D:\st\3курс\практика по программированию\Алантьев 8 модуль\Alantev_mod8\Alantev_mod8\obj\Debug\net6.0-windows\ref\Alantev_mod8.dll

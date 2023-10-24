@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alantev_mod8", "Alantev_mod8\Alantev_mod8.csproj", "{CCBC5AF7-145F-485B-A886-0F1508E70828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBC5AF7-145F-485B-A886-0F1508E70828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBC5AF7-145F-485B-A886-0F1508E70828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBC5AF7-145F-485B-A886-0F1508E70828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBC5AF7-145F-485B-A886-0F1508E70828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D5985B-50DE-42C8-AE16-8AD51D62F1E4}
+	EndGlobalSection
+EndGlobal
